@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "industRial"]
+	path = industRial
+	url = https://github.com/j-ramalho/industrial
+	shallow = true
+	registered = true
